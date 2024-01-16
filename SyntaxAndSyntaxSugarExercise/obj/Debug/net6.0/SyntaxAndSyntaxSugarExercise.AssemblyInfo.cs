@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44cafacad74ce05fbe9c6997c716bed70b593155")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e0067ad52c60527c789defe665406cfa4a411e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SyntaxAndSyntaxSugarExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
